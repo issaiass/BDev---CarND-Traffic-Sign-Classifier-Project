@@ -1,0 +1,12 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+Train/
+Test/
+images
+Final_Training
+examples
+.checkpoint
